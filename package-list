@@ -2,7 +2,8 @@ mobi.cangol.mobile
 mobi.cangol.mobile.db
 mobi.cangol.mobile.http
 mobi.cangol.mobile.http.download
-mobi.cangol.mobile.http.extras
+mobi.cangol.mobile.http.polling
+mobi.cangol.mobile.http.route
 mobi.cangol.mobile.logging
 mobi.cangol.mobile.parser
 mobi.cangol.mobile.plugin
